@@ -4,7 +4,7 @@ description: "al kinds of resources and chapter concepts will be avilable on thi
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["optometry"]
-authors: ["Maneesh Jha"]
+authors: ["Maneesh-Jha"]
 tags: ["vision", "science"]
 draft: false
 ---
