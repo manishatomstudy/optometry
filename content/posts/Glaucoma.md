@@ -1,11 +1,11 @@
 ---
-title: Glaucoma
+title: Glaucoma : definition,classification , pathogenesis, diagnosis, treatment, 
 description: "meta description"
 date: 2022-04-02T06:00:00+00:00
 image: "/images/posts/03.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+categories: ["Disease"]
+authors: ["Maneesh Jha"]
+tags: ["Eye disease", "Glaucoma"]
 draft: false
 ---
 
