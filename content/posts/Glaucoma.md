@@ -8,12 +8,18 @@ authors: ["Maneesh Jha"]
 tags: ["Eye disease", "Glaucoma"]
 draft: false
 ---
-##Definition
+## Definition
 Glaucoma comprises a diverse group of disorders , it comprises optics neuropathy associated with visual field loss .IOP(intra ocular pressure) is the key modifiable factor.
 
-##Classification
+## Classification
 (A) congenital and develpemental Glaucoma
-classified as 1
+classified as (i) Primary congenital/developemental glaucoma(PCG)
+              (ii)Secondary congenital / developemental Glaucoma
+              
+The secondary congenital /developemental glaucoma is further classified as (i)Developemental glaucoma with congential ocular ocuar anomalies 
+                                                                           (ii)Developemental Glaucoma associated with systemic anomalies
+                                                                           
+
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
