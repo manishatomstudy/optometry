@@ -78,9 +78,13 @@ b) concave iris insertion which is less common
 ## Clinical features
 
 1) Lacrimation
+
 2) Photophobia
+
 3) blepharospasm
+
 4) eye rubbing
+
 5) riased iop
 
 Corneal signs
