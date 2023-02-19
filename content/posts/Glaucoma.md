@@ -13,10 +13,14 @@ Glaucoma comprises a diverse group of disorders , it comprises optics neuropathy
 
 ## Classification
 (A) congenital and develpemental Glaucoma
-classified as (i) Primary congenital/developemental glaucoma(PCG)
-              (ii)Secondary congenital / developemental Glaucoma
+classified as 
+
+(i) Primary congenital/developemental glaucoma(PCG) 
+
+(ii)Secondary congenital / developemental Glaucoma
               
 The secondary congenital /developemental glaucoma is further classified as 
+
 (i)Developemental glaucoma with congential ocular ocuar anomalies 
 
 (ii)Developemental Glaucoma associated with systemic anomalies
@@ -32,12 +36,23 @@ The PCG occours due to the developementl anomaly of Anterior chamber and it is n
 
 (iii)Juvenile Glaucoma -  5% casesarises after  years 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Secondary Developemental Glaucoma
 
-## Creative Design
+the secondary developemental glaucoma is classified as
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+(i)Developemental glaucoma with congential ocular ocuar anomalies 
 
+-Associated with iridodysgenesis
+
+-Associated with Aniridia
+
+-Associated with microcornea
+
+-Associated with nanophthalmos
+
+-Associated with Iridocorneal dysgenesis
+
+- 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
