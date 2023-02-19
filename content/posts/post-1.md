@@ -5,7 +5,7 @@ date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["optometry"]
 authors: ["Maneesh-Jha"]
-tags: ["vision", "science"]
+tags: ["vision-science", "Binocular"]
 draft: false
 ---
 
