@@ -92,5 +92,4 @@ Hazy cornea
 
 sclera - thining appears blue , Anterior chamber becomes deep and  Lens becomes anterior posterior flat
 
-Optic disc show variable cupping and with raised IOP
-Axial myopia and large eyeball (bupthalmos ) these are the clinical presentation.
+optic disc show variable cupping and with raised IOP Axial myopia and large eyeball (bupthalmos ) these are the clinical presentation.
