@@ -1,6 +1,6 @@
 ---
-title: "Starting a optometry blog dedecated to students"
-description: "al kinds of resources and chapter concepts will be avilable on this website"
+title: "Starting a optometry blog dedicated to students"
+description: "all kinds of resources and chapter concepts will be avilable on this website"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["optometry"]
@@ -9,7 +9,7 @@ tags: ["vision", "science"]
 draft: false
 ---
 
-We are completely dedicated to increase the knowladge in optometry domain and starting a optometry dedicated blog with the node.js and vercel supported.
+We are completely dedicated to increase the knowladge in optometry domain and starting a optometry dedicated blog with the node.js and vercel supported.all kinds of resources and chapter concepts will be avilable on this website
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
