@@ -1,15 +1,15 @@
 ---
-title: "How to make toys from old Olarpaper"
-description: "meta description"
+title: "Starting a optometry blog dedecated to students"
+description: "al kinds of resources and chapter concepts will be avilable on this website"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+categories: ["optometry"]
+authors: ["Maneesh Jha"]
+tags: ["vision", "science"]
 draft: false
 ---
 
-sdvvddddd.     sectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+We are completely dedicated to increase the knowladge in optometry domain and starting a optometry dedicated blog with the node.js and vercel supported.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
