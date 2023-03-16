@@ -97,7 +97,7 @@ Hazy cornea
 sclera - thining appears blue , Anterior chamber becomes deep and  Lens becomes anterior posterior flat
 
 optic disc show variable cupping and with raised IOP Axial myopia and large eyeball (bupthalmos ) these are the clinical presentation.
-##Management
+## Management
 Medications: Eye drops or oral medications may be prescribed to help reduce intraocular pressure (IOP), which is the main risk factor for glaucoma. These medications may include beta-blockers, prostaglandin analogs, alpha-adrenergic agonists, carbonic anhydrase inhibitors, or a combination of these.
 
 Laser therapy: In some cases, laser therapy may be used to help reduce IOP by improving drainage of fluid from the eye. The most common types of laser therapy for glaucoma include selective laser trabeculoplasty (SLT), laser peripheral iridotomy (LPI), and cyclophotocoagulation.
