@@ -120,3 +120,41 @@ Surgery: If medications and laser therapy are not effective in controlling IOP, 
 Regular eye exams: It is important for patients with glaucoma to have regular eye exams to monitor their condition and adjust their treatment plan as needed. Early detection and treatment can help prevent or slow the progression of vision loss.
 
 Lifestyle modifications: Certain lifestyle modifications may also be recommended to help manage glaucoma, such as avoiding activities that increase IOP (e.g., heavy lifting or straining), eating a healthy diet, exercising regularly, and avoiding smoking.
+
+
+## Practice questions
+
+Which of the following is the main risk factor for glaucoma?
+a. Diabetes
+b. High blood pressure
+c. Intraocular pressure
+d. Cataracts
+Answer: c. Intraocular pressure
+
+Which of the following tests is used to measure intraocular pressure?
+a. Visual field test
+b. Optical coherence tomography (OCT)
+c. Gonioscopy
+d. Tonometry
+Answer: d. Tonometry
+
+Which of the following medications is commonly prescribed to reduce intraocular pressure in glaucoma?
+a. Antibiotics
+b. Antihistamines
+c. Beta-blockers
+d. Steroids
+Answer: c. Beta-blockers
+
+What is the goal of glaucoma surgery?
+a. To improve the drainage of fluid from the eye
+b. To correct refractive errors
+c. To remove cataracts
+d. To repair retinal damage
+Answer: a. To improve the drainage of fluid from the eye
+
+Which of the following lifestyle modifications may be recommended to help manage glaucoma?
+a. Eating a high-sugar diet
+b. Smoking cigarettes
+c. Avoiding activities that increase intraocular pressure
+d. Drinking alcohol excessively
+Answer: c. Avoiding activities that increase intraocular pressure
