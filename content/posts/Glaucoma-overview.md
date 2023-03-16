@@ -1,11 +1,11 @@
 ---
-title: "Glaucoma  classification  diagnosis and management" 
-description: ", definition,classification , pathogenesis, diagnosis, treatment, "
-date: 2023-04-02T06:00:00+00:00
-image: "/images/posts/03.jpg"
-categories: ["Disease"]
-authors: ["Maneesh Jha"]
-tags: ["Eye disease", "Glaucoma"]
+title: "Starting a optometry blog dedicated to students"
+description: "all kinds of resources and chapter concepts will be avilable on this website"
+date: 2022-04-04T05:00:00Z
+image: "/images/posts/01.jpg"
+categories: ["optometry"]
+authors: ["Maneesh-Jha"]
+tags: ["vision-science", "Binocular"]
 draft: false
 ---
 ## Definition
