@@ -97,6 +97,19 @@ Hazy cornea
 sclera - thining appears blue , Anterior chamber becomes deep and  Lens becomes anterior posterior flat
 
 optic disc show variable cupping and with raised IOP Axial myopia and large eyeball (bupthalmos ) these are the clinical presentation.
+
+## Diagnosis
+Comprehensive eye exam: A comprehensive eye exam involves a visual acuity test to measure how well a patient can see at different distances, a dilated eye exam to examine the optic nerve and retina, and tonometry to measure intraocular pressure (IOP).
+
+Visual field test: A visual field test measures the patient's peripheral vision to detect any areas of vision loss, which can be an early sign of glaucoma.
+
+Optical coherence tomography (OCT): OCT is a non-invasive imaging test that uses light waves to produce detailed images of the optic nerve and retina. This test can help detect any changes or damage to these structures that may be indicative of glaucoma.
+
+Gonioscopy: Gonioscopy is a specialized exam that involves the use of a special lens to view the drainage angle of the eye and assess its function.
+
+Pachymetry: Pachymetry measures the thickness of the cornea, which can affect the accuracy of IOP measurements and can be a risk factor for glaucoma.
+
+Genetic testing: In some cases, genetic testing may be recommended to identify any underlying genetic mutations or predisposition to developing glaucoma.
 ## Management
 Medications: Eye drops or oral medications may be prescribed to help reduce intraocular pressure (IOP), which is the main risk factor for glaucoma. These medications may include beta-blockers, prostaglandin analogs, alpha-adrenergic agonists, carbonic anhydrase inhibitors, or a combination of these.
 
